@@ -47,3 +47,4 @@ frontend/.vite/
 
 # ── Coverage ──────────────────────────────────────────────────────────────
 coverage/
+backend/.env
